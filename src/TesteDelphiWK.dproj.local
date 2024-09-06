@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/03 10:16:46.000.374,=C:\Users\attol\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/03 11:43:56.000.059,=C:\Users\attol\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/03 12:23:49.000.503,C:\Users\attol\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Desenvolvimento\WK\uMain.dfm</Transaction>
+    <Transaction>2024/09/03 12:23:49.000.503,C:\Users\attol\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Desenvolvimento\WK\uMain.pas</Transaction>
+    <Transaction>2024/09/03 12:24:01.000.544,C:\Users\attol\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Desenvolvimento\WK\TesteDelphiWK.dproj</Transaction>
+    <Transaction>2024/09/03 15:02:44.000.243,=E:\Desenvolvimento\WK\src\Unit1.pas</Transaction>
+    <Transaction>2024/09/03 15:03:29.000.717,E:\Desenvolvimento\WK\src\Unit1.dfm=E:\Desenvolvimento\WK\src\uProdutos.dfm</Transaction>
+    <Transaction>2024/09/03 15:03:29.000.717,E:\Desenvolvimento\WK\src\Unit1.pas=E:\Desenvolvimento\WK\src\uProdutos.pas</Transaction>
+    <Transaction>2024/09/03 15:03:34.000.964,=E:\Desenvolvimento\WK\src\Unit1.pas</Transaction>
+    <Transaction>2024/09/03 15:03:59.000.941,E:\Desenvolvimento\WK\src\Unit1.dfm=E:\Desenvolvimento\WK\src\uClientes.dfm</Transaction>
+    <Transaction>2024/09/03 15:03:59.000.941,E:\Desenvolvimento\WK\src\Unit1.pas=E:\Desenvolvimento\WK\src\uClientes.pas</Transaction>
+    <Transaction>2024/09/03 15:05:01.000.942,=E:\Desenvolvimento\WK\src\Unit1.pas</Transaction>
+    <Transaction>2024/09/03 15:06:00.000.617,E:\Desenvolvimento\WK\src\Unit1.dfm=E:\Desenvolvimento\WK\src\uDMConnection.dfm</Transaction>
+    <Transaction>2024/09/03 15:06:00.000.617,E:\Desenvolvimento\WK\src\Unit1.pas=E:\Desenvolvimento\WK\src\uDMConnection.pas</Transaction>
+    <Transaction>2024/09/03 15:07:28.000.866,E:\Desenvolvimento\WK\src\uDMConnection.pas=E:\Desenvolvimento\WK\src\uDMConnMySQL.pas</Transaction>
+    <Transaction>2024/09/03 15:07:28.000.866,E:\Desenvolvimento\WK\src\uDMConnection.dfm=E:\Desenvolvimento\WK\src\uDMConnMySQL.dfm</Transaction>
+    <Transaction>2024/09/04 00:46:41.000.758,=E:\Desenvolvimento\WK\src\Unit1.pas</Transaction>
+    <Transaction>2024/09/04 00:50:22.000.703,E:\Desenvolvimento\WK\src\Unit1.pas=E:\Desenvolvimento\WK\src\uPedidosClass.pas</Transaction>
+  </Transactions>
+</BorlandProject>
